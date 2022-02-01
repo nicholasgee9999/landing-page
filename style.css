@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 .hero{
     background-color: #1F2937;
     height: 60vh;
@@ -7,7 +11,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 5px;
+    padding: 20px;
 }
 
 .logo{
@@ -33,6 +37,8 @@
 }
 
 .heroleft{
+    margin-left: 200px;
+    margin-right: 100px;
 }
 
 .heroleft h1{
@@ -44,10 +50,14 @@
 .heroleft p{
     font-size: 18px;
     color: #E5E7EB;
+    flex-wrap: wrap;
+    margin-right: 165px;
+    margin-top: 40px;
 }
 
 .heroright{
-    margin-right: 100px;
+    margin-right: 245px;
     margin-top: 100px;
+
 }
 
