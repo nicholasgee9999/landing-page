@@ -2,8 +2,22 @@
     background-color: #1F2937;
 }
 
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .logo{
     color: #F9FAF8;
     font-size: 24px;
     font-weight: bold;
+}
+
+
+.navbar li{
+    color: #E5E7EB;
+    font-size: 24px;
+    display: inline-block;
+    padding: 10px;
 }
