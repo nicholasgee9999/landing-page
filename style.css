@@ -4,7 +4,7 @@
 
 .hero{
     background-color: #1F2937;
-    height: 60vh;
+    height: 55vh;
 }
 
 .header{
@@ -75,3 +75,37 @@
 
 }
 
+.secondsection{
+}
+
+.secondsectionheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.secondsectioncontent{
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+    margin-top: 10px;
+}
+
+.secondsectioncontent div{
+    margin-left: 60px;
+}
+
+.secondsectioncontent p{
+    color: #1f2937;
+    margin-top: 12px;
+    text-align: center;
+    width: 200px;
+    }
+
+.secondsectioncontent img{
+    border: 5px #3882fc solid;
+    border-radius: 12px;
+}
