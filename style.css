@@ -139,7 +139,7 @@
     display: flex;
     justify-content: flex-end;
     margin-left: 25%;
-    margin-right: 25%;
+    margin-right: 29%;
     padding: 1em;
 }
 
@@ -198,5 +198,4 @@ footer{
     align-items: center;
     color: white;
     font-weight: bold;
-    
 }
