@@ -97,6 +97,7 @@
 .secondsectioncontent{
     display: flex;
     justify-content: center;
+    margin-right: 85px;
 }
 
 .secondsectioncontent div{
@@ -129,5 +130,16 @@
     color: #1F2937;
     margin-left: 25%;
     margin-right: 25%;
+}
+
+.quotesection span{
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 1em;
 }
 
