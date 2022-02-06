@@ -189,3 +189,14 @@
     border-radius: 12px;
     font-weight: bold;
 }
+
+footer{
+    height: 50px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    
+}
