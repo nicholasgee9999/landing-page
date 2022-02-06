@@ -143,3 +143,49 @@
     padding: 1em;
 }
 
+.finalsection{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletterbox{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882fc;
+    padding: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.newslettertext{
+    margin-left: 50px;
+    flex-wrap: wrap;
+    width: 700px;
+}
+
+.newslettertext h3{
+    color: white;
+    font-size: 24px;
+}
+
+.newslettertext p{
+    color: white;
+    padding-top: 5px;
+}
+
+.newsletterbutton{
+    display: flex;
+    align-items: center;
+    width: 200px;
+}
+
+.newslettersignup{
+    background-color: #3882fc;
+    color: white;
+    border: 1px white solid;
+    padding: 10px 40px;
+    border-radius: 12px;
+    font-weight: bold;
+}
