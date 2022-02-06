@@ -79,14 +79,17 @@
 }
 
 .secondsection{
-    height: 30%;
+    height: 450px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 20px;
 }
 
 .secondsectionheader{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 12vh;
+    height: 150px;
     font-size: 36px;
     color: #1F2937;
 }
@@ -94,12 +97,10 @@
 .secondsectioncontent{
     display: flex;
     justify-content: center;
-    height: 40vh;
-    margin-top: 10px;
 }
 
 .secondsectioncontent div{
-    margin-left: 60px;
+    margin-left: 50px;
 }
 
 .secondsectioncontent p{
@@ -113,3 +114,20 @@
     border: 5px #3882fc solid;
     border-radius: 12px;
 }
+
+.quotesection{
+    height: 300px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotesection p{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
